@@ -1,4 +1,4 @@
 # didactic-octo-telegram
 Multi-agent coordination
 
-![robot_particle](https://user-images.githubusercontent.com/24938569/144286044-12488608-d204-423c-9c69-d19a4ae865a5.mp4)
+![myAnimation](https://user-images.githubusercontent.com/24938569/144287206-6bafa720-38f8-49f6-a938-49988cde4e90.gif)
