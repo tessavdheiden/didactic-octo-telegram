@@ -1,4 +1,4 @@
 # didactic-octo-telegram
-Multi-agent coordination
+Multi-agent COMARL
 
-![myAnimation](https://user-images.githubusercontent.com/24938569/144287206-6bafa720-38f8-49f6-a938-49988cde4e90.gif)
+![myAnimation (1)](https://user-images.githubusercontent.com/24938569/144662430-bed6a254-704d-4750-8573-8bdb39193c66.gif)
